@@ -7,6 +7,7 @@ ola mundo
 
     <head>
     <style type="text/css">
+        <style>
    < body> 
 
        <h1 style="color:red"> ola mundo</h1>    
